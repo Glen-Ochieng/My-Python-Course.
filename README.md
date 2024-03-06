@@ -1,5 +1,5 @@
 # Python-Knowlegde.ipynb
-Codes I learnt from my Python from data analysis course.
+I learnt the following codes while studying Python for data analysts.
 
 ## Quick Shortcuts 
 * To switch between markdown and code you press the esc key+ m to switch to markdown then esc+y to switch to code and esc+r to switch to raw.
