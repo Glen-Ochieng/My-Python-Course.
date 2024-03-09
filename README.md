@@ -12,7 +12,19 @@ I learnt the following codes while studying Python for data analysts.
 This is because the above command re-run that cell's code before creating the active empty cell below. Thus, it is less riskier to add a new cell by pressing the down arrow key and pressing Enter, using your mouse or pressing ESC+b then Enter. Another common programmer practice is at the beginning, add many cells then just press the down arrow key/click/press Enter the next cell.
 However, press Shift/Alt + Enter when you have typed out your code and you are read to run it **just once** and go to the next cell.
 * Leading zeros aren't allowed, writing 001 as 1 might return an error.
+ 
+ ### Key words in Python
+ Keywords are reserved words that have a special purpose.
 
+You can see a list of reserved words by typing help('keywords').
+
+You are unable to use keywords as variable names in python
+
+Similarly object class names such as str, list, dict, tuple and set should not be used as variable names either.
+
+For example you should not use list as a variable name e.g. list = [1,2,3,4].
+
+This is because "list" is used to identify a class object. So instead you could assign the previous list to a variable called list_1 = [1,2,3,4]
 
 
 
