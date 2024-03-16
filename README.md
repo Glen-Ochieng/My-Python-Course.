@@ -8,7 +8,7 @@ I learnt the following codes while studying Python for data analysts.
 * Unlike a Github .md file where to add code to a markdown file you press Tab, in a jupyter notebook markdown, you press the right arrow key(>) before the code.
 * To comment multiple lines of code, highlight the codes and place Ctrl+/
 * To underline a text in a markdown pane use {u in between the left arrow key and right arrown key u} just before the text. <<u>>. Similarly, to bold and italize a text use b and i respectively in side the left and right arrow key. To bold and italize a text, the use the arrow keys method above but enclose the entire text from both sides with double asterixes.
-* To paint over a text in markdown enclose it with `` i.e  `fname`
+* To paint over a text in markdown enclose it with `` i.e if i write fname inside that sign we get  `fname`
 
 ## Common Mistakes
 * While pressing Alt+Enter or Shift+Enter is an easy way to go to the cell below and automatically have it be in edit mode. This can cause an error message to pop if the above code was a code that did a non-reversable operation such as dropping or adding an element in your variable.
