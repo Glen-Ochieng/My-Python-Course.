@@ -1,5 +1,5 @@
 
-##<b>I learnt the following codes while studying Python for data analysts. 
+##<b> I learnt the following codes while studying Python for data analysts. 
 
 *All of the files,except datasources, are in jupyternotebook format to allow for display of both input and output.*
 
