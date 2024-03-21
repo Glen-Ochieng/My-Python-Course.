@@ -1,9 +1,8 @@
+## User guide
 
 <b> I learnt the following codes while studying Python for data analysts. 
 
 *All of the files,except datasources, are in jupyternotebook format to allow for display of both input and output.*
-
-## User guide
 For the really long files, make use of the table of contents under the View tab of your jupyter notebook.
 
 ## Quick Shortcuts 
